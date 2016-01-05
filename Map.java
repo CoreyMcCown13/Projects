@@ -1,3 +1,8 @@
+/*
+* Generic Java Map Class
+* Completed functions: put, get, isEmpty, makeEmpty
+* See main method for demonstration
+*/
 public class Map<KeyType, ValueType> {
 	private static final int SIZE = 16;
 
