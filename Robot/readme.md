@@ -24,4 +24,4 @@ A robot made using a Raspberry Pi and Python
 - Control motors and read data via GPIO pins
 
 ##Images
-Final images of the robot to come...
+![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot1.jpg)
