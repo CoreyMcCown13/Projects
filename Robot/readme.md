@@ -25,3 +25,5 @@ A robot made using a Raspberry Pi and Python
 
 ##Images
 ![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot1.jpg)
+![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot2.jpg)
+![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot3.jpg)
