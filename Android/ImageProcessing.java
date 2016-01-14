@@ -1,4 +1,4 @@
-// This is the MainActivity.java file from an image processing application writted for my mobile applications class.
+// This is the MainActivity.java file from an image processing application written for my mobile applications class.
 // A user is able capture images from the camera and apply several different image filters, varying from edge detection to colorizing
 // Once user is happy with the results, they can save or share the image.
 // Application was called "Cartoonator"
