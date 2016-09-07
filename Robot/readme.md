@@ -22,8 +22,3 @@ A robot made using a Raspberry Pi and Python
 ##Software
 - GUI created in Python for controllability
 - Control motors and read data via GPIO pins
-
-##Images
-![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot1.jpg)
-![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot2.jpg)
-![Raspberry Pi Robot](http://coreymccown.com/files/images/PiBot3.jpg)
